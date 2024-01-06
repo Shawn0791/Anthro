@@ -1,0 +1,3 @@
+rep "GGJ2023_roots@ggj_gold2023@cloud.cn"
+  path "/"
+    smartbranch "/main"
