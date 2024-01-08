@@ -6,23 +6,23 @@ The work is from GGJ2023 and the theme is "root".
 We had so many ideas and wanted to make a 3D game that it turned out we couldn't finish the project.
 Due to the time constraints of the project, it's not really finished yet, but it's a demo that can be experienced.
 
-### Project Responsibilities
+## Project Responsibilities
 
 Lead programmer and gameplay designer.
 
-### Design Concept
+## Design Concept
 
 The growth and withering of tree roots as an analogy for the bonds between living organisms.
 
-### Game Mechanics
+## Game Mechanics
 
 To avoid running out of oxygen and dying, players need to collect plants to replenish oxygen. Simultaneously, players can use these plants to construct vine bridges to connect different landmasses. Other creatures on the planet will exhibit different behaviors based on the player's interactions, which will influence the game's outcome.
 
-### Game Highlights
+## Game Highlights
 
 Exploration of a fragmented little planet and stunning visual effects.
 
-### Game controls:
+## Game controls:
 
 Move: WSAD
 
