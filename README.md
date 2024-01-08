@@ -39,10 +39,15 @@ Click on the title to view the video.
 
 ## Game Screenshots
 <img width="1280" alt="1" src="https://github.com/Shawn0791/Anthro/assets/128385054/8192767b-80e4-44c4-8dca-bc7168d091b3">
+
 ![2](https://github.com/Shawn0791/Anthro/assets/128385054/5ddd72b6-4998-441f-b6ce-a7b691fe0b68)
+
 ![3](https://github.com/Shawn0791/Anthro/assets/128385054/2df212b3-063c-4e90-8acf-bbe4041f0a5c)
+
 <img width="1280" alt="4" src="https://github.com/Shawn0791/Anthro/assets/128385054/0bdd86be-fd07-4318-98a3-dff161a6b946">
+
 ![5](https://github.com/Shawn0791/Anthro/assets/128385054/3ca54825-704e-400f-bad6-1718b0a33487)
+
 ![6](https://github.com/Shawn0791/Anthro/assets/128385054/155d6225-055d-4957-85ef-3ed974c5b8ef)
 
  
