@@ -34,7 +34,7 @@ Interaction: Q
 
 Throw: E
 
-## [Project Video](https://https://youtu.be/wbMhmk5jS8s)
+## [Project Video](https://youtu.be/wbMhmk5jS8s)
 Click on the title to view the video.
 
 ## Game Screenshots
