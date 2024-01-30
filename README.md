@@ -27,8 +27,11 @@ A capybara that can't control its farting, bouncing around the map.
 ## Game Mechanics
 
 Pufferfish as the protagonist: Players control the pufferfish, which can roll and bounce in unique ways, providing a dynamic and humorous gameplay experience.
+
 Unique Movement Mechanics: The movement of the dolphin is influenced by physics-based mechanics, focusing on non-traditional methods such as rolling and bouncing.
+
 Interactive environments: Players can interact with a variety of in-game elements such as crocodiles, pelicans and different types of terrain such as bushes and through-trees.
+
 Oranges as collectibles: consuming oranges increases the energy of the pufferfish and affects its movement.
 
 ## Game Highlights
