@@ -6,48 +6,53 @@ The work is from GGJ2023 and the theme is "root".
 We had so many ideas and wanted to make a 3D game that it turned out we couldn't finish the project.
 Due to the time constraints of the project, it's not really finished yet, but it's a demo that can be experienced.
 
-## Project Responsibilities
+## Team Member
 
-Lead programmer and gameplay designer.
+Lead Artist: Huichuan Wang
+
+Pixel Artist: W1AN
+
+Game Developer: Vomyrak
+
+Game Designer: Shawn
+
+QA Tester: Lianqi Qiu
+
+Audio Designer: Yiqing Fu
 
 ## Design Concept
 
-The growth and withering of tree roots as an analogy for the bonds between living organisms.
+A capybara that can't control its farting, bouncing around the map.
 
 ## Game Mechanics
 
-To avoid running out of oxygen and dying, players need to collect plants to replenish oxygen. Simultaneously, players can use these plants to construct vine bridges to connect different landmasses. Other creatures on the planet will exhibit different behaviors based on the player's interactions, which will influence the game's outcome.
+Pufferfish as the protagonist: Players control the pufferfish, which can roll and bounce in unique ways, providing a dynamic and humorous gameplay experience.
+Unique Movement Mechanics: The movement of the dolphin is influenced by physics-based mechanics, focusing on non-traditional methods such as rolling and bouncing.
+Interactive environments: Players can interact with a variety of in-game elements such as crocodiles, pelicans and different types of terrain such as bushes and through-trees.
+Oranges as collectibles: consuming oranges increases the energy of the pufferfish and affects its movement.
 
 ## Game Highlights
 
-Exploration of a fragmented little planet and stunning visual effects.
+Uncontrollable movement of the capybara and some deliberately reserved hilarious bugs.
 
 ## Game controls:
 
-Move: WSAD
+Move: ← & →
 
 Jump: Space
 
-Attack: Left Mouse Button
+Interaction: E
 
-Interaction: Q
+Eat: C
 
-Throw: E
-
-## [Project Video](https://youtu.be/wbMhmk5jS8s)
+## [Project Video](https://youtu.be/dq-UBpF8jqU)
 Click on the title to view the video.
 
 ## Game Screenshots
-<img width="1280" alt="1" src="https://github.com/Shawn0791/Anthro/assets/128385054/8192767b-80e4-44c4-8dca-bc7168d091b3">
+![1](https://github.com/Shawn0791/Anthro/assets/128385054/18eb73c3-d767-4347-88e7-3dbc04f63e10)
+![2](https://github.com/Shawn0791/Anthro/assets/128385054/af76d4a8-2108-4761-87e8-47b23f656320)
+![3](https://github.com/Shawn0791/Anthro/assets/128385054/9a36613b-b789-4365-ab63-cadc0b882284)
+![4](https://github.com/Shawn0791/Anthro/assets/128385054/8859ad6d-ebd8-4450-84f3-3e4723461fd6)
 
-![2](https://github.com/Shawn0791/Anthro/assets/128385054/5ddd72b6-4998-441f-b6ce-a7b691fe0b68)
-
-![3](https://github.com/Shawn0791/Anthro/assets/128385054/2df212b3-063c-4e90-8acf-bbe4041f0a5c)
-
-<img width="1280" alt="4" src="https://github.com/Shawn0791/Anthro/assets/128385054/0bdd86be-fd07-4318-98a3-dff161a6b946">
-
-![5](https://github.com/Shawn0791/Anthro/assets/128385054/3ca54825-704e-400f-bad6-1718b0a33487)
-
-![6](https://github.com/Shawn0791/Anthro/assets/128385054/155d6225-055d-4957-85ef-3ed974c5b8ef)
 
  
